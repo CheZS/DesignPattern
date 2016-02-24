@@ -9,7 +9,6 @@ public class BenzAirCondition implements AirCondition {
 
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
 		return new String("Benz air condition");
 	}
 

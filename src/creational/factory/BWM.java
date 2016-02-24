@@ -9,7 +9,6 @@ public class BWM implements Car {
 
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
 		return new String("BWM");
 	}
 

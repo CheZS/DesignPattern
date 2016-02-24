@@ -7,7 +7,7 @@ public class Client {
 	}
 	
 	public void call() {
-		Adapter adapter = new Adapter();
+		Target adapter = new Adapter();
 		adapter.hello();
 		adapter.world();
 	}
